@@ -11,3 +11,5 @@ exam = ders notlarını hesaplayan ve genel not ortalamasını da hesaplayıp ka
 taxi = Taksi metre hesaplama cart curt
 
 daire_alan = Verilen yarı çap'a göre daire alan hesaplama ve yine yarıçap ve verilen açıya göre daire dilimi hesaplama
+
+kitle_indeks = Vücut Kitle İndeksini hesaplama aracı (kullanıcıdan kilo ve boy girişi alıyorsunuz.)
