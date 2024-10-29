@@ -13,3 +13,5 @@ taxi = Taksi metre hesaplama cart curt
 daire_alan = Verilen yarı çap'a göre daire alan hesaplama ve yine yarıçap ve verilen açıya göre daire dilimi hesaplama
 
 kitle_indeks = Vücut Kitle İndeksini hesaplama aracı (kullanıcıdan kilo ve boy girişi alıyorsunuz.)
+
+manav = Kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran program
