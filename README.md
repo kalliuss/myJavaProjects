@@ -9,3 +9,5 @@ ucgen = iki kenarı verilen dik üçgenin hipotenüsünü bulma, alan ve çevre 
 exam = ders notlarını hesaplayan ve genel not ortalamasını da hesaplayıp kaldı / geçti geri dönütü verme
 
 taxi = Taksi metre hesaplama cart curt
+
+daire_alan = Verilen yarı çap'a göre daire alan hesaplama ve yine yarıçap ve verilen açıya göre daire dilimi hesaplama
