@@ -15,3 +15,31 @@ daire_alan = Verilen yarı çap'a göre daire alan hesaplama ve yine yarıçap v
 kitle_indeks = Vücut Kitle İndeksini hesaplama aracı (kullanıcıdan kilo ve boy girişi alıyorsunuz.)
 
 manav = Kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran program
+
+
+- banka_hesap:
+
+    Banka hesap sistemi  adı altında terminal üzerinden çalışabilen temel sevieyede proje
+
+    Amacı: Müşterinin bankaya kaydını yapıp; 
+    hesap bilgilerinin kontrolünü sağlama
+    para çekme ve yatırma
+    birikim durumunu öğrenme
+    hesap özet alma gibi işlemleri bulunuyor.
+
+    İçerisinde bulunan konular: 
+    - değişkenler
+    - değişken dönüşümleri
+    - sınıflar 
+    - paket kullanımı 
+    - yöntemler (metot oluşturma ) 
+    - erişim düzenleyicileri
+    - kapsülleme
+    - değişkeleri dönüştürme
+    - sınıf 
+    - nesne 
+    - kurucu
+    - operatörler
+    - if / else
+
+    
