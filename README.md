@@ -42,4 +42,23 @@ manav = Kullanıcıların manavdan almış oldukları ürünlerin kilogram değe
     - operatörler
     - if / else
 
-    
+- StudentManagementSystem
+
+    Öğrenci bilgi sistemi olarak geçmektedir.
+
+    Amacı: Kullanıcıdan veriler alıp onları kurucu metot aracılığıyla yeni bir öğrenci olarak ekleyip vize final notlarına göre öğrenci durumunu sorgulama hakkında bilgiler almak.
+
+        İçerisinde bulunan konular: 
+    - değişkenler
+    - değişken dönüşümleri
+    - sınıflar 
+    - paket kullanımı 
+    - yöntemler (metot oluşturma ) 
+    - erişim düzenleyicileri
+    - kapsülleme
+    - değişkeleri dönüştürme
+    - sınıf 
+    - nesne 
+    - kurucu
+    - operatörler
+    - if / else
