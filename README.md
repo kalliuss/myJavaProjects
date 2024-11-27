@@ -62,3 +62,7 @@ manav = Kullanıcıların manavdan almış oldukları ürünlerin kilogram değe
     - kurucu
     - operatörler
     - if / else
+    - 
+- hesap_makinesi
+  
+  Ufak çaplı switch case çalışması adına yapılmış bir projedir.
