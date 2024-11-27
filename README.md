@@ -1,4 +1,4 @@
-https://academy.patika.dev/tr/courses/java101
+![image](https://github.com/user-attachments/assets/8a3a5ee3-2f3b-414d-bb05-c34ee816d31c)https://academy.patika.dev/tr/courses/java101
 
 eğitimi doğrultusunda yaptığım projeler burada yer almaktadır.
 
@@ -66,3 +66,7 @@ manav = Kullanıcıların manavdan almış oldukları ürünlerin kilogram değe
 - hesap_makinesi
   
   Ufak çaplı switch case çalışması adına yapılmış bir projedir.
+
+- login_panel
+
+  Ufak çaplı sadece şifre yanlış ise sıfırlanabilen bir login paneli ![image](https://github.com/user-attachments/assets/bdadb52b-f67e-408e-b6b9-38c66a182c2b)
