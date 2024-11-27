@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a3a5ee3-2f3b-414d-bb05-c34ee816d31c)https://academy.patika.dev/tr/courses/java101
+https://academy.patika.dev/tr/courses/java101
 
 eğitimi doğrultusunda yaptığım projeler burada yer almaktadır.
 
