@@ -70,3 +70,38 @@ manav = Kullanıcıların manavdan almış oldukları ürünlerin kilogram değe
 - login_panel
 
   Ufak çaplı sadece şifre yanlış ise sıfırlanabilen bir login paneli ![image](https://github.com/user-attachments/assets/bdadb52b-f67e-408e-b6b9-38c66a182c2b)
+
+  # - Student_Management_Syst_V2
+
+## Proje Açıklaması
+Bu proje, Java dili kullanılarak geliştirilmiş temel bir **Öğrenci Yönetim Sistemi** uygulamasıdır. Proje, öğrencilerin bilgilerini, ders notlarını ve başarı durumlarını yönetmek için oluşturulmuştur. Yazılımda kullanılan yapılar ve yöntemler, Java'nın temel ve orta seviye konularını kapsar ve uygulamalı bir öğrenim amacıyla tasarlanmıştır.
+
+## Projenin Özellikleri
+- **Öğrenci Bilgi Yönetimi:**
+  - Öğrenci ekleme, listeleme, silme ve arama.
+- **Not Yönetimi:**
+  - Öğrencilere not ekleme ve tüm notlarını görüntüleme.
+- **Başarı Analizi:**
+  - Öğrencilerin ortalamalarını hesaplama.
+  - En başarılı öğrenciyi bulma.
+  - Öğrencinin geçip geçmediğini belirleme.
+- **Dinamik Kullanıcı Etkileşimi:**
+  - Kullanıcıdan alınan girişlerle dinamik menü seçenekleri.
+- **Kapsülleme ve Nesne Yönelimli Programlama:**
+  - Öğrenci bilgileri ve yönetimi, Java sınıfları ve yöntemleri aracılığıyla düzenlenmiştir.
+  - Kapsülleme (encapsulation) ve erişim düzenleyiciler (private, public) kullanılarak güvenli veri yönetimi sağlanmıştır.
+
+## Projenin Teknik Detayları
+- **Kullanılan Yapılar ve Kavramlar:**
+  - Sınıflar, nesneler, kurucular (constructors).
+  - Diziler ve `ArrayList` veri yapısı.
+  - Döngüler (`for`, `while`) ve karar yapıları (`if-else`).
+- **Java Temelleri:**
+  - Değişkenler, veri tipleri, erişim düzenleyiciler ve kapsülleme.
+- **Metotlar ve Kullanımı:**
+  - Getter ve setter metotları.
+  - Kullanıcıdan alınan girişleri yönetme (`Scanner`).
+- **Kullanıcı Etkileşimi:**
+  - Konsol üzerinden dinamik bir menüyle kullanıcı etkileşimi sağlandı.
+
+
