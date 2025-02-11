@@ -12,9 +12,10 @@ public class Main {
             System.out.println("Lütfen sayı giriniz: ");
             k = input.nextInt();
 
-            if(k < 0){
+            if(k % 2 != 0){
+                System.out.println("Tek sayı girişi yapıldı ! Oyun bitti !");
                 break;
-            }else if (k > 0 && k % 2 !=0){
+            }else if (k % 2 == 0){
                 total = total + k;
             }
             System.out.println("Toplam: " + total);
